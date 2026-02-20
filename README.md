@@ -1,46 +1,122 @@
 # personal-finance-research
+
 Research, notes, and practical frameworks on personal finance, budgeting, savings, and financial planning. Supporting materials for a personal finance SaaS and educational blog.
 
-# Personal Finance Research
+## About this repository
 
-This repository contains structured research, notes, and practical frameworks related to:
-- personal finance management
-- budgeting systems
-- savings strategies
-- financial planning
-- expense tracking methodologies
+This repository contains structured research, working notes, and methodological materials related to personal finance management and financial planning.
 
-The materials support the development of a personal finance SaaS application and an educational platform focused on financial literacy.
+The materials here support the development of a Russian-language educational project focused on:
 
-Main project:
-[https://avocadomoney.com](https://avocadomoney.com)
+* budgeting systems
+* long-term financial planning
+* savings strategy
+* expense control methods
+* financial goal setting
 
-# Purpose of this repository
+All documents reflect practical analysis, framework testing, and applied research in the field of household finance management.
 
-The goal is to document:
-- real-world budgeting approaches
-- tested financial planning frameworks
-- behavioral patterns in money management
-- simple models that improve financial stability
+Author: **Дмитрий Васильев**
+Independent researcher in personal finance systems.
 
-This research is used to design tools that help people:
-- understand their cash flow
-- reduce financial stress
-- build sustainable savings
-- plan long-term financial goals
+---
 
-Repository structure
-- research/ — conceptual models and theory
-- case-studies/ — practical scenarios and analysis
-- methodology/ — systems and frameworks used in the app
-- diagrams/ — visual representations of financial processes
+## О репозитории
 
-# About the author
-Created and maintained by Dmitry Vasilev,
-founder and developer of a personal finance SaaS focused on budgeting, expense tracking, and financial planning.
-More about the project:
-[https://avocadomoney.com](https://avocadomoney.com)
+Этот репозиторий содержит исследования, методические материалы и рабочие наработки по теме:
 
-# Disclaimer
-The content in this repository is for educational and research purposes only and does not constitute financial advice.
+* личный бюджет
+* финансовое планирование
+* накопления
+* управление расходами
+* финансовые цели
+
+Материалы используются при разработке образовательного проекта о личных финансах для русскоязычной аудитории.
+
+Здесь публикуются:
+
+* аналитические заметки
+* модели бюджетирования
+* методики финансового контроля
+* схемы долгосрочного планирования
+* сравнительный анализ инструментов
+
+## Цель проекта
+
+Сформировать системный и практичный подход к финансовому планированию на уровне домохозяйства.
+
+В основе - прикладные модели, проверяемые на реальных сценариях:
+
+* нестабильный доход
+* семейный бюджет
+* крупные финансовые цели
+* формирование финансовой подушки
+
+## 🔎 Основные направления исследований
+
+### 1. Структура личного бюджета
+
+Методики распределения доходов, контроль обязательных и переменных расходов.
+
+### 2. Долгосрочное финансовое планирование
+
+Планирование на 3–10 лет, финансовая карта жизни, сценарное моделирование.
+
+### 3. Система накоплений
+
+Подушка безопасности, резервные фонды, накопление на крупные цели.
+
+### 4. Поведенческие аспекты
+
+Эмоциональные траты, финансовые привычки, дисциплина расходов.
+
+## Структура репозитория
+
+```
+/budget-models
+/savings-strategies
+/financial-planning-frameworks
+/behavioral-finance-notes
+/research-notes
+```
+
+Каждый раздел содержит:
+
+* описания моделей
+* примеры расчётов
+* сравнительные таблицы
+* выводы по применимости
+
+---
+
+## Связанный проект
+
+Основной сайт-приложение о личных финансах: [https://avocadomoney.com](https://avocadomoney.com)
+
+Проект включает материалы по темам:
+
+* личные финансы
+* семейный бюджет
+* экономия и сбережения
+* финансовое планирование
+* инструменты и шаблоны
+
+---
+
+## Методологический подход
+
+Исследования основаны на:
+
+* прикладной аналитике
+* сравнительном анализе моделей
+* тестировании бюджетных систем
+* структурировании финансовых сценариев
+
+Цель - сделать финансовое планирование понятным, измеримым и управляемым процессом.
+
+---
+
+## Disclaimer
+
+Материалы носят образовательный характер и не являются индивидуальной финансовой консультацией.
 
