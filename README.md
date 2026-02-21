@@ -19,8 +19,6 @@ All documents reflect practical analysis, framework testing, and applied researc
 Author: **Дмитрий Васильев**
 Independent researcher in personal finance systems.
 
----
-
 ## О репозитории
 
 Этот репозиторий содержит исследования, методические материалы и рабочие наработки по теме:
@@ -87,8 +85,6 @@ Independent researcher in personal finance systems.
 * сравнительные таблицы
 * выводы по применимости
 
----
-
 ## Связанный проект
 
 Основной сайт-приложение о личных финансах: [https://avocadomoney.com](https://avocadomoney.com)
@@ -101,8 +97,6 @@ Independent researcher in personal finance systems.
 * финансовое планирование
 * инструменты и шаблоны
 
----
-
 ## Методологический подход
 
 Исследования основаны на:
@@ -113,8 +107,6 @@ Independent researcher in personal finance systems.
 * структурировании финансовых сценариев
 
 Цель - сделать финансовое планирование понятным, измеримым и управляемым процессом.
-
----
 
 ## Disclaimer
 
